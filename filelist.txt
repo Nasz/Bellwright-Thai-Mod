@@ -1,0 +1,8 @@
+"D:\Downloads\Fonts\DroidSansFallback_modify.ttf" "..\..\..\Engine\Content\EngineFonts\Faces\DroidSansFallback.ufont"
+"D:\AppPool\BellwrightThaiLocalization\Source\Engine\Content\State\Fonts\DroidSansFallback.ttf" "..\..\..\Engine\Content\Slate\Fonts\DroidSansFallback.ttf"
+"D:\AppPool\BellwrightThaiLocalization\Source\Bellwright\Content\Localization\Game\th\Game.locres" "..\..\..\Bellwright\Content\Localization\Game\en\Game.locres"
+"D:\Downloads\Fonts\Noto_Sans_Thai\static\NotoSansThai_Condensed-Regular.ttf" "..\..\..\Bellwright\Content\MetaHumans\Common\Fonts\RobotoCondensed-Regular.ufont"
+"D:\Downloads\Fonts\Noto_Serif_Thai\static\NotoSerifThai-Regular.ttf" "..\..\..\Bellwright\Content\Mist\UI\Fonts\Faces\Cambria\Cambria.ufont"
+"D:\Downloads\Fonts\Noto_Serif_Thai\static\NotoSerifThai-Bold.ttf" "..\..\..\Bellwright\Content\Mist\UI\Fonts\Faces\Cambria\cambriab.ufont"
+"D:\Downloads\Fonts\Noto_Sans_Thai\static\NotoSansThai-Bold.ttf" "..\..\..\Bellwright\Content\Mist\UI\Fonts\Faces\Roboto\Roboto-Bold.ufont"
+"D:\Downloads\Fonts\Noto_Sans_Thai\static\NotoSansThai-Regular.ttf" "..\..\..\Bellwright\Content\Mist\UI\Fonts\Faces\Roboto\Roboto-Regular.ufont"
